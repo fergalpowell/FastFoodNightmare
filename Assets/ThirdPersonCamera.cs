@@ -21,14 +21,14 @@ public class ThirdPersonCamera : MonoBehaviour
 
 
     // Use this for initialization
-    private void Start ()
+    private void Start()
     {
         camTransform = transform;
         cam = Camera.main;
-	}
-	
-	// Update is called once per frame
-	private void Update ()
+    }
+
+    // Update is called once per frame
+    private void Update()
     {
     }
 
